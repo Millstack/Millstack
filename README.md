@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Millstack Milind Khamkar
 - 👀 I’m interested in Full Stack Development
-- 💞️ I have completed Core Java and Front-end technologies like HTML & CSS
-- 🌱 I’m currently learning Advance Java & JavaScript
+- 💞️ I have completed Core Java, Advanced Java and Front-end technologies like HTML, CSS & JavaScript
+- 🌱 I’m currently learning React (MERN stack)
 - 📫 How to reach me? my email id is: fullstackwithmilind@gmail.com
 
 <!---
